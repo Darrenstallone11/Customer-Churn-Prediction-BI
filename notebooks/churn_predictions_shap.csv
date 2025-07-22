@@ -1,0 +1,1410 @@
+﻿CustomerID,Actual,Predicted,Churn Probability,Top Feature 1,Top Feature 2,Top Feature 3
+CUST_0,1,1,0.7529171192931435,tenure,TotalCharges_24.8,InternetService_Fiber optic
+CUST_1,0,0,0.08290214471560772,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_2,0,0,0.007968062326300207,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_3,1,1,0.7678792683601035,tenure,TotalCharges_76.35,InternetService_Fiber optic
+CUST_4,0,0,0.009142325760200541,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_5,1,0,0.2645904285980687,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_6,0,0,0.0531183514646647,Contract_Two year,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_7,0,0,0.0049084639820892355,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_8,1,0,0.04103594402233615,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_9,1,0,0.10767568220042215,tenure,InternetService_Fiber optic,TotalCharges_19.4
+CUST_10,0,0,0.10459990722979856,tenure,InternetService_Fiber optic,TotalCharges_20.45
+CUST_11,0,0,0.3610710153850372,InternetService_Fiber optic,Contract_Two year,StreamingTV_Yes
+CUST_12,0,0,0.1846383140373725,Contract_One year,InternetService_Fiber optic,MultipleLines_Yes
+CUST_13,1,1,0.5563222937424488,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_14,0,0,0.07210197796532186,InternetService_Fiber optic,TotalCharges_330.8,tenure
+CUST_15,1,1,0.7629562384845936,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_16,1,0,0.37837123589031557,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_17,1,1,0.7182021571087731,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_18,0,0,0.47304468826156026,InternetService_Fiber optic,Contract_Two year,tenure
+CUST_19,1,0,0.4929872848323282,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_20,0,1,0.7410846606440898,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_21,0,0,0.380244068997983,TotalCharges_19.45,tenure,InternetService_Fiber optic
+CUST_22,0,0,0.2607043674571746,InternetService_Fiber optic,tenure,MultipleLines_Yes
+CUST_23,0,0,0.14030685168422297,tenure,InternetService_Fiber optic,Contract_One year
+CUST_24,0,0,0.1941528577123976,InternetService_Fiber optic,Contract_One year,tenure
+CUST_25,1,0,0.3446338494166324,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_26,1,0,0.3396021330388973,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_27,0,0,0.17088775439915477,InternetService_Fiber optic,OnlineSecurity_Yes,StreamingMovies_Yes
+CUST_28,0,1,0.7452135932037587,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_29,0,0,0.018495327973611277,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_30,0,0,0.27352875369689666,tenure,InternetService_Fiber optic,Contract_One year
+CUST_31,0,0,0.016103985501044762,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_32,0,0,0.023377927069277677,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_33,0,0,0.03144405541992484,tenure,InternetService_Fiber optic,Contract_One year
+CUST_34,0,0,0.19794772742296332,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_35,0,0,0.02454616333994412,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_36,0,0,0.006405256387920736,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_37,1,1,0.6301383456761209,InternetService_Fiber optic,Contract_Two year,MonthlyCharges
+CUST_38,0,0,0.23289195335226906,tenure,InternetService_Fiber optic,Contract_One year
+CUST_39,1,0,0.3073667110385434,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_40,1,1,0.648742558607395,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_41,0,0,0.23668030960046718,tenure,InternetService_Fiber optic,Contract_One year
+CUST_42,1,1,0.7359590014840447,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_43,0,0,0.11434281291140222,InternetService_Fiber optic,Contract_One year,tenure
+CUST_44,1,1,0.621915540856108,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_45,0,0,0.015268216980276906,tenure,Contract_One year,InternetService_Fiber optic
+CUST_46,1,1,0.5055679305305059,tenure,InternetService_Fiber optic,TotalCharges_503.6
+CUST_47,1,1,0.5501749791317699,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_48,1,1,0.6639662740446809,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_49,1,0,0.08698284716656048,Contract_One year,InternetService_Fiber optic,TechSupport_Yes
+CUST_50,0,0,0.09496216098725502,InternetService_Fiber optic,MonthlyCharges,PaperlessBilling_Yes
+CUST_51,0,0,0.23932587131341715,InternetService_Fiber optic,MonthlyCharges,Contract_Two year
+CUST_52,0,0,0.039241707780155066,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_53,0,0,0.0649886025575046,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_54,0,0,0.19671563744829798,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_55,0,0,0.008591835937662124,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_56,0,0,0.016393779738717015,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_57,0,1,0.5613712490239219,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_58,0,0,0.19361269147536464,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_59,0,1,0.6907326153296128,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_60,0,0,0.2319661829651454,InternetService_Fiber optic,Contract_One year,Contract_Two year
+CUST_61,0,0,0.2595961864046415,tenure,InternetService_Fiber optic,PaperlessBilling_Yes
+CUST_62,0,0,0.16840990269460046,TotalCharges_267.35,tenure,InternetService_Fiber optic
+CUST_63,0,0,0.0437546680920069,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_64,1,1,0.5431513625508984,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_65,0,0,0.005331774976836129,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_66,0,0,0.016678339637044442,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_67,0,0,0.020496579631693247,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_68,0,0,0.026687262797917482,tenure,Contract_One year,InternetService_Fiber optic
+CUST_69,0,0,0.012479346228381578,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_70,1,1,0.7502715045968087,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_71,0,0,0.0357553736784273,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_72,1,1,0.6458740515944684,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_73,1,1,0.6108406300925995,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_74,0,0,0.3311841915041065,InternetService_Fiber optic,Contract_One year,StreamingMovies_Yes
+CUST_75,0,0,0.22025180726758162,tenure,InternetService_Fiber optic,PaperlessBilling_Yes
+CUST_76,0,0,0.23209609345774007,InternetService_Fiber optic,OnlineSecurity_Yes,Contract_Two year
+CUST_77,0,0,0.214192347714774,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_78,0,0,0.2877121058439886,tenure,TotalCharges_19.5,InternetService_Fiber optic
+CUST_79,0,0,0.03556563676158325,Contract_One year,InternetService_Fiber optic,MonthlyCharges
+CUST_80,0,0,0.24964757076471006,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_81,1,1,0.5567243026748449,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_82,0,0,0.1933581513114956,InternetService_Fiber optic,Contract_Two year,PaperlessBilling_Yes
+CUST_83,1,0,0.23877179279638527,InternetService_Fiber optic,tenure,PaperlessBilling_Yes
+CUST_84,0,0,0.008984621667719028,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_85,1,1,0.5555671254719059,InternetService_Fiber optic,StreamingMovies_Yes,Contract_Two year
+CUST_86,1,0,0.14109593447998428,tenure,InternetService_Fiber optic,Contract_One year
+CUST_87,1,0,0.219489898236917,InternetService_Fiber optic,tenure,TotalCharges_858.6
+CUST_88,0,0,0.028132676332794048,tenure,InternetService_Fiber optic,Contract_One year
+CUST_89,0,0,0.014100318980995164,Contract_Two year,InternetService_Fiber optic,tenure
+CUST_90,0,0,0.38300641070322883,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_91,0,0,0.12927824866889837,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_92,0,1,0.7131579950840032,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_93,0,0,0.08091116135280847,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_94,0,0,0.004329351697685051,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_95,0,0,0.011602290630137206,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_96,0,0,0.48873349097785507,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_97,0,0,0.15215710182741124,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_98,1,1,0.8088849158432992,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_99,0,0,0.017533618981404972,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_100,0,0,0.47794250732618393,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_101,1,1,0.6895819239508039,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_102,0,0,0.027563860342422475,InternetService_Fiber optic,Contract_One year,MonthlyCharges
+CUST_103,0,0,0.025166420823469086,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_104,0,0,0.19894200363573816,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_105,1,1,0.5494405464955734,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_106,0,0,0.007399794696196129,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_107,0,0,0.016992528581793565,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_108,0,0,0.3658281003620004,InternetService_Fiber optic,Contract_Two year,TechSupport_Yes
+CUST_109,0,0,0.036583478046133364,Contract_One year,InternetService_Fiber optic,tenure
+CUST_110,1,0,0.4958292394660068,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_111,0,0,0.05373993612219606,tenure,Contract_One year,InternetService_Fiber optic
+CUST_112,0,0,0.10623671527356957,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_113,0,0,0.49295754420522364,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_114,0,0,0.06662106495848936,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_115,0,0,0.207577686317907,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_116,0,0,0.011190558895916596,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_117,0,0,0.3171387511661176,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_118,0,0,0.2856643552205419,InternetService_Fiber optic,Contract_Two year,TechSupport_Yes
+CUST_119,0,0,0.00507547534595235,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_120,0,0,0.06559640141589787,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_121,0,0,0.035267519553019176,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_122,0,0,0.030188991767907146,Contract_Two year,InternetService_Fiber optic,tenure
+CUST_123,1,1,0.5481144321013376,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_124,0,0,0.17458900414244757,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_125,0,0,0.3193153988601864,TotalCharges_19.45,tenure,InternetService_Fiber optic
+CUST_126,1,1,0.5868743738892551,tenure,InternetService_Fiber optic,TotalCharges_522.95
+CUST_127,1,1,0.5966702545938495,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_128,0,0,0.004934246064180955,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_129,1,1,0.6516426481329686,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_130,0,0,0.11202600341862654,tenure,InternetService_Fiber optic,Contract_One year
+CUST_131,1,1,0.5869060147699801,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_132,1,1,0.5919799098976954,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_133,1,1,0.7969340801387763,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_134,0,0,0.13579157374325176,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_135,0,0,0.24993673717443524,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_136,1,0,0.27844512518884046,InternetService_Fiber optic,Contract_One year,tenure
+CUST_137,0,0,0.05874934177213808,InternetService_Fiber optic,tenure,Contract_One year
+CUST_138,0,0,0.056877990855311485,Contract_Two year,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_139,1,1,0.5745084485551133,InternetService_Fiber optic,Contract_Two year,MultipleLines_Yes
+CUST_140,1,0,0.32589975865587517,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_141,0,0,0.04971172225817833,Contract_One year,InternetService_Fiber optic,tenure
+CUST_142,1,1,0.6195591345973476,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_143,0,1,0.6554094633236284,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_144,0,0,0.011629539011119365,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_145,0,0,0.11420437930018873,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_146,0,0,0.12560600320183998,InternetService_Fiber optic,Contract_One year,OnlineSecurity_Yes
+CUST_147,0,0,0.44683794477934163,InternetService_Fiber optic,MonthlyCharges,Contract_Two year
+CUST_148,0,0,0.018373247876060695,tenure,Contract_One year,InternetService_Fiber optic
+CUST_149,0,0,0.009030392917201039,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_150,0,0,0.05076799812909195,InternetService_Fiber optic,MonthlyCharges,tenure
+CUST_151,0,0,0.07285915610477692,tenure,Contract_One year,InternetService_Fiber optic
+CUST_152,0,1,0.6847399291764211,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_153,0,1,0.6010024929715977,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_154,0,0,0.3675332213637462,InternetService_Fiber optic,Contract_Two year,MonthlyCharges
+CUST_155,0,0,0.1244065646828379,tenure,InternetService_Fiber optic,PaperlessBilling_Yes
+CUST_156,0,0,0.059435443973665736,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_157,1,1,0.7738467968496697,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_158,0,0,0.0736334836692054,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_159,0,0,0.00604691476614046,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_160,0,0,0.47027736781575685,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_161,0,1,0.6477916224872485,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_162,0,1,0.5154980773228386,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_163,0,0,0.007593532299558793,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_164,0,0,0.008757543989630374,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_165,1,1,0.7306671873733581,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_166,1,0,0.2780256145825355,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_167,0,0,0.027243704075885545,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_168,0,0,0.05711808673020013,tenure,InternetService_Fiber optic,Contract_One year
+CUST_169,0,0,0.015339791975110728,tenure,Contract_One year,InternetService_Fiber optic
+CUST_170,0,0,0.023908331237606526,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_171,1,0,0.3929827046745686,tenure,TotalCharges_19.9,InternetService_Fiber optic
+CUST_172,0,0,0.035122757269614786,tenure,InternetService_Fiber optic,Contract_One year
+CUST_173,0,0,0.025137526484624813,Contract_One year,InternetService_Fiber optic,tenure
+CUST_174,0,0,0.09659013481708056,Contract_One year,InternetService_Fiber optic,tenure
+CUST_175,0,1,0.7712071777031464,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_176,0,0,0.06319235567778558,Contract_One year,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_177,0,0,0.029693499486736358,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_178,1,1,0.7420973772737048,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_179,0,0,0.09523243532914308,InternetService_Fiber optic,OnlineSecurity_Yes,PaperlessBilling_Yes
+CUST_180,1,1,0.7418995684211228,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_181,0,0,0.004331209658521772,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_182,0,1,0.5045939317647564,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_183,0,0,0.0098347514351046,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_184,0,0,0.005380742794147907,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_185,0,0,0.005636771242421015,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_186,1,1,0.5662533147318138,tenure,InternetService_Fiber optic,TotalCharges_25.05
+CUST_187,1,1,0.5400658191041698,tenure,InternetService_Fiber optic,Contract_One year
+CUST_188,1,1,0.810725675143009,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_189,0,0,0.09138221533225482,Contract_One year,InternetService_Fiber optic,tenure
+CUST_190,1,1,0.5327032057748151,TotalCharges_19.45,tenure,InternetService_Fiber optic
+CUST_191,0,0,0.023930174313660575,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_192,0,0,0.07610217279425156,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_193,0,0,0.04830129944190147,tenure,InternetService_Fiber optic,Contract_One year
+CUST_194,0,0,0.3330456735109636,tenure,InternetService_Fiber optic,Contract_One year
+CUST_195,0,0,0.2024605361404313,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_196,1,1,0.589512323138741,InternetService_Fiber optic,Contract_Two year,MonthlyCharges
+CUST_197,0,0,0.01624304561885454,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_198,0,0,0.08624751651953617,tenure,InternetService_Fiber optic,Contract_One year
+CUST_199,0,0,0.007865849658650179,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_200,0,1,0.642469293412699,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_201,0,0,0.07415597983407744,tenure,InternetService_Fiber optic,Contract_One year
+CUST_202,0,0,0.020852570998220913,tenure,Contract_One year,InternetService_Fiber optic
+CUST_203,0,0,0.23316111867019804,tenure,TotalCharges_20.05,InternetService_Fiber optic
+CUST_204,0,0,0.18353293723793898,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_205,1,0,0.1551787479345843,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_206,0,0,0.22132171974449136,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_207,0,0,0.24366805189329838,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_208,1,1,0.6426044443057431,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_209,0,0,0.10425722239769185,InternetService_Fiber optic,MonthlyCharges,Contract_Two year
+CUST_210,0,0,0.007927623911524372,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_211,0,0,0.1353604993523352,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_212,0,0,0.4787272110661178,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_213,0,0,0.30068329656842907,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_214,1,1,0.7536554201399065,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_215,0,0,0.01685210068586237,Contract_Two year,InternetService_Fiber optic,TotalCharges_268.45
+CUST_216,0,0,0.04948144320872091,tenure,InternetService_Fiber optic,PaperlessBilling_Yes
+CUST_217,0,0,0.2234559617163585,tenure,TotalCharges_49.65,InternetService_Fiber optic
+CUST_218,0,0,0.19831334197813597,tenure,InternetService_Fiber optic,Contract_One year
+CUST_219,0,0,0.06345832336391766,InternetService_Fiber optic,Contract_One year,tenure
+CUST_220,0,1,0.5360629279768278,InternetService_Fiber optic,MonthlyCharges,Contract_Two year
+CUST_221,0,1,0.60181432698898,InternetService_Fiber optic,Contract_Two year,tenure
+CUST_222,0,0,0.0293833568631525,InternetService_Fiber optic,tenure,Contract_One year
+CUST_223,0,0,0.029852186237880877,tenure,Contract_One year,InternetService_Fiber optic
+CUST_224,0,0,0.008201095307298008,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_225,0,0,0.08440923708657837,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_226,0,0,0.021038875943317253,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_227,0,0,0.009775303130073033,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_228,1,1,0.7434002678713757,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_229,0,0,0.3850221664623992,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_230,0,0,0.04750986274206968,tenure,Contract_One year,InternetService_Fiber optic
+CUST_231,0,0,0.010295931823223395,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_232,1,0,0.46117983048797406,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_233,0,0,0.10287111840865287,tenure,InternetService_Fiber optic,TechSupport_Yes
+CUST_234,1,1,0.7726841364030405,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_235,0,0,0.01338894538026046,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_236,1,1,0.5558722644125991,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_237,0,0,0.21351706954321725,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_238,0,1,0.6911443733099358,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_239,0,0,0.02347487473736185,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_240,0,0,0.05911945647837212,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_241,0,0,0.051234080325986094,InternetService_Fiber optic,Contract_One year,MonthlyCharges
+CUST_242,1,1,0.6720672751943295,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_243,0,0,0.016122154165664305,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_244,0,0,0.03437050802589684,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_245,0,0,0.015568428305036032,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_246,0,0,0.27524475550535066,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_247,1,1,0.5839683684757513,tenure,TotalCharges_45.65,InternetService_Fiber optic
+CUST_248,0,0,0.027209155908531683,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_249,0,0,0.39901331812749485,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_250,1,0,0.4853079666309845,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_251,0,0,0.3477077486868306,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_252,0,0,0.03454759346643318,Contract_Two year,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_253,0,0,0.022058454080375968,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_254,0,0,0.4116735907342467,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_255,1,1,0.5034017085596605,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_256,0,0,0.03438348529337319,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_257,0,0,0.04239708211537017,Contract_One year,InternetService_Fiber optic,tenure
+CUST_258,0,0,0.009098391147224643,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_259,0,0,0.00692272673777835,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_260,0,0,0.11279052906757263,tenure,Contract_One year,InternetService_Fiber optic
+CUST_261,1,0,0.13599454632657051,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_262,0,0,0.12459792060707074,InternetService_Fiber optic,OnlineSecurity_Yes,TechSupport_Yes
+CUST_263,0,1,0.6208359809388759,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_264,0,0,0.2217906588619643,InternetService_Fiber optic,tenure,TechSupport_Yes
+CUST_265,0,0,0.059961223989132215,tenure,Contract_One year,InternetService_Fiber optic
+CUST_266,0,0,0.20325304113843565,tenure,InternetService_Fiber optic,PaperlessBilling_Yes
+CUST_267,0,0,0.23423763063988068,InternetService_Fiber optic,OnlineSecurity_Yes,Contract_Two year
+CUST_268,0,0,0.094171306864111,tenure,InternetService_Fiber optic,Contract_One year
+CUST_269,1,0,0.16148636490271154,InternetService_Fiber optic,OnlineSecurity_Yes,Contract_Two year
+CUST_270,0,0,0.014589780252138841,Contract_Two year,InternetService_Fiber optic,tenure
+CUST_271,1,0,0.28536738059401584,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_272,1,1,0.5378604171203252,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_273,1,0,0.05789561912848259,Contract_One year,InternetService_Fiber optic,tenure
+CUST_274,0,0,0.006771058108741962,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_275,0,0,0.16804874993722807,Contract_One year,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_276,0,0,0.2927782801105713,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_277,0,0,0.19575418860744648,InternetService_Fiber optic,OnlineSecurity_Yes,PaperlessBilling_Yes
+CUST_278,0,0,0.14246550024520174,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_279,0,0,0.015542139533937705,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_280,0,0,0.11011842016860265,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_281,0,0,0.0297278427605686,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_282,0,0,0.11740046618569641,tenure,Contract_One year,InternetService_Fiber optic
+CUST_283,0,0,0.02182382999235808,tenure,Contract_One year,InternetService_Fiber optic
+CUST_284,1,0,0.10321398465709267,Contract_Two year,InternetService_Fiber optic,tenure
+CUST_285,1,1,0.8155345592019434,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_286,1,1,0.7886586139807624,tenure,InternetService_Fiber optic,TotalCharges_69.6
+CUST_287,1,1,0.5275666981481756,tenure,InternetService_Fiber optic,TotalCharges_434.5
+CUST_288,0,1,0.6840981972714199,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_289,0,0,0.029585754365308276,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_290,0,0,0.16697181516568776,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_291,0,0,0.0056205748389131956,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_292,0,0,0.05262876732649797,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_293,0,0,0.08746717863243597,InternetService_Fiber optic,MonthlyCharges,Contract_Two year
+CUST_294,0,0,0.03290126070505429,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_295,1,1,0.5487396430904092,InternetService_Fiber optic,StreamingMovies_Yes,Contract_Two year
+CUST_296,0,0,0.12523116674703028,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_297,1,0,0.1956269825480464,tenure,InternetService_Fiber optic,Contract_One year
+CUST_298,0,1,0.6983522786812805,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_299,1,0,0.3084494702541099,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_300,0,0,0.2469530155933089,tenure,InternetService_Fiber optic,Contract_One year
+CUST_301,0,0,0.24772520685741725,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_302,0,0,0.04961571367508777,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_303,0,0,0.3794754480718299,InternetService_Fiber optic,OnlineSecurity_Yes,Contract_Two year
+CUST_304,0,0,0.06893982758603577,Contract_Two year,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_305,0,0,0.010177701562814489,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_306,0,0,0.008983863360880525,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_307,0,0,0.13570327301296572,tenure,InternetService_Fiber optic,Contract_One year
+CUST_308,0,0,0.2749790142955984,tenure,Contract_One year,InternetService_Fiber optic
+CUST_309,1,1,0.6837916627016433,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_310,0,0,0.3815665861114346,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_311,0,0,0.006867682582730036,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_312,0,0,0.017648892102691133,tenure,InternetService_Fiber optic,Contract_One year
+CUST_313,1,0,0.06625591456443145,tenure,InternetService_Fiber optic,Contract_One year
+CUST_314,0,0,0.01775883846132626,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_315,1,1,0.6440640611074475,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_316,0,0,0.0048554414102313995,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_317,0,0,0.05947110730453216,Contract_One year,InternetService_Fiber optic,MonthlyCharges
+CUST_318,1,0,0.38005242668967154,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_319,0,0,0.014461487902980604,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_320,0,1,0.8184470599951482,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_321,0,0,0.056584281954806,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_322,0,1,0.5112363734306469,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_323,0,0,0.07025554174811129,InternetService_Fiber optic,Contract_One year,OnlineSecurity_Yes
+CUST_324,0,1,0.7807345704586972,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_325,0,0,0.021760009681203847,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_326,1,0,0.2436232620480802,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_327,0,0,0.04338709685769261,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_328,0,0,0.22262735264234612,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_329,0,0,0.02574604229415435,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_330,0,0,0.3907789063690068,InternetService_Fiber optic,tenure,Contract_One year
+CUST_331,0,0,0.18826700947922606,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_332,1,0,0.4452060711995,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_333,1,1,0.7963201734527885,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_334,0,0,0.014896802550605681,tenure,Contract_One year,InternetService_Fiber optic
+CUST_335,0,0,0.014501729113985026,Contract_Two year,InternetService_Fiber optic,tenure
+CUST_336,0,0,0.3073455949199529,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_337,0,0,0.19104810415228024,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_338,0,1,0.5830306396940023,InternetService_Fiber optic,Contract_Two year,tenure
+CUST_339,0,0,0.00821963871909649,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_340,0,0,0.09629202458630517,InternetService_Fiber optic,OnlineSecurity_Yes,StreamingMovies_Yes
+CUST_341,0,0,0.1800860998657354,tenure,InternetService_Fiber optic,Contract_One year
+CUST_342,0,0,0.03842211271864346,Contract_One year,InternetService_Fiber optic,MonthlyCharges
+CUST_343,1,0,0.39045644303427984,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_344,1,0,0.4452021481539334,InternetService_Fiber optic,Contract_One year,Contract_Two year
+CUST_345,0,0,0.10860078369728138,tenure,Contract_One year,InternetService_Fiber optic
+CUST_346,0,1,0.6194397993466559,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_347,0,0,0.1491445883836466,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_348,0,0,0.11757552691740665,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_349,0,0,0.01808722377392368,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_350,0,1,0.6668618035702035,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_351,1,1,0.5120271919619267,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_352,0,0,0.18068388863575185,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_353,1,0,0.27730247181170886,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_354,0,0,0.017316312053853297,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_355,0,0,0.08553600188039963,tenure,InternetService_Fiber optic,Contract_One year
+CUST_356,1,0,0.13147282240312783,tenure,Contract_One year,InternetService_Fiber optic
+CUST_357,0,0,0.01651508283405131,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_358,1,1,0.6630426706949472,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_359,1,1,0.7334263911114995,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_360,0,0,0.18164163106543432,InternetService_Fiber optic,TotalCharges_1284.2,TechSupport_Yes
+CUST_361,0,0,0.24903573756188555,tenure,InternetService_Fiber optic,Contract_One year
+CUST_362,0,0,0.20417882012470154,InternetService_Fiber optic,tenure,TechSupport_Yes
+CUST_363,0,0,0.22116259025580132,InternetService_Fiber optic,OnlineSecurity_Yes,PaperlessBilling_Yes
+CUST_364,0,0,0.06382512007881706,Contract_Two year,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_365,1,1,0.8605905965721955,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_366,1,0,0.0673732567664041,tenure,InternetService_Fiber optic,Contract_One year
+CUST_367,1,0,0.3620000370908009,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_368,1,0,0.12220714975496885,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_369,1,1,0.7031400949602286,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_370,0,0,0.210513117597439,Contract_One year,InternetService_Fiber optic,tenure
+CUST_371,0,1,0.5620144871683858,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_372,1,1,0.642235448030508,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_373,0,1,0.5963151077523369,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_374,1,1,0.5824172504661674,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_375,0,0,0.16997051162357302,InternetService_Fiber optic,Contract_One year,MonthlyCharges
+CUST_376,0,0,0.10348258846252634,Contract_One year,InternetService_Fiber optic,tenure
+CUST_377,0,0,0.05942772241349619,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_378,1,1,0.6297909770266985,tenure,InternetService_Fiber optic,TotalCharges_777.3
+CUST_379,1,1,0.7994083286765178,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_380,1,1,0.6212949353550485,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_381,0,0,0.016720853464933443,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_382,0,0,0.006300366595544213,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_383,0,1,0.555888809493614,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_384,0,0,0.010843266182401933,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_385,1,0,0.23796203324761733,tenure,InternetService_Fiber optic,TotalCharges_46.3
+CUST_386,1,1,0.6826815100452943,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_387,0,0,0.03539927778505183,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_388,1,1,0.6215461648178198,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_389,0,0,0.07301152470588121,InternetService_Fiber optic,OnlineSecurity_Yes,PaperlessBilling_Yes
+CUST_390,0,0,0.06776994036553484,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_391,0,0,0.020588585600022753,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_392,0,0,0.30835313348969345,tenure,Contract_One year,InternetService_Fiber optic
+CUST_393,1,1,0.7159194360940377,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_394,0,0,0.23036848224032563,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_395,0,1,0.567485238612577,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_396,1,1,0.775629494703292,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_397,0,0,0.40639250747901795,InternetService_Fiber optic,Contract_Two year,PaymentMethod_Electronic check
+CUST_398,0,0,0.3765878972169243,TotalCharges_19.95,tenure,InternetService_Fiber optic
+CUST_399,1,0,0.43858300774410547,InternetService_Fiber optic,tenure,StreamingMovies_Yes
+CUST_400,1,0,0.4673255454783858,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_401,1,1,0.6033797306014369,tenure,TotalCharges_151.3,InternetService_Fiber optic
+CUST_402,1,0,0.4525337904932714,TotalCharges_20.1,tenure,InternetService_Fiber optic
+CUST_403,0,0,0.08569667878362179,tenure,Contract_One year,InternetService_Fiber optic
+CUST_404,0,0,0.04262862159783001,Contract_Two year,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_405,1,0,0.25501916317652734,tenure,TotalCharges_259.8,InternetService_Fiber optic
+CUST_406,0,0,0.007680758721623653,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_407,0,0,0.14149124186970793,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_408,1,1,0.7343464589688775,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_409,1,0,0.4229080413079422,tenure,InternetService_Fiber optic,TotalCharges_71.1
+CUST_410,0,0,0.053713675776052586,InternetService_Fiber optic,Contract_One year,tenure
+CUST_411,0,0,0.2503469039850813,InternetService_Fiber optic,tenure,PaperlessBilling_Yes
+CUST_412,0,1,0.5460462088140027,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_413,0,1,0.5267380225853768,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_414,0,0,0.1519568321254546,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_415,0,0,0.28478578386988007,InternetService_Fiber optic,OnlineSecurity_Yes,MonthlyCharges
+CUST_416,1,1,0.55540725361982,InternetService_Fiber optic,StreamingMovies_Yes,Contract_Two year
+CUST_417,1,1,0.8364718841033608,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_418,1,1,0.829629762261733,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_419,0,0,0.3020750527041508,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_420,0,0,0.14461451177420048,tenure,InternetService_Fiber optic,Contract_One year
+CUST_421,0,0,0.43305158147553596,InternetService_Fiber optic,StreamingMovies_Yes,Contract_Two year
+CUST_422,0,0,0.028431486144937276,tenure,Contract_One year,InternetService_Fiber optic
+CUST_423,0,0,0.06722828841554149,Contract_One year,InternetService_Fiber optic,MonthlyCharges
+CUST_424,1,0,0.3311166425721527,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_425,1,1,0.7326405740617427,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_426,0,0,0.14202776158516414,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_427,0,0,0.2234999440381902,InternetService_Fiber optic,OnlineSecurity_Yes,PaperlessBilling_Yes
+CUST_428,1,1,0.6729692008754165,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_429,0,0,0.472752891413773,InternetService_Fiber optic,MonthlyCharges,StreamingMovies_Yes
+CUST_430,0,0,0.072415253563925,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_431,1,1,0.7023017785538521,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_432,0,0,0.016664658490485942,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_433,0,0,0.02761233148960378,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_434,0,0,0.03345031213825628,tenure,InternetService_Fiber optic,Contract_One year
+CUST_435,1,1,0.7504715586494516,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_436,0,0,0.11933606066497897,tenure,InternetService_Fiber optic,Contract_One year
+CUST_437,0,0,0.24136792398598134,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_438,1,1,0.5535535834859819,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_439,0,0,0.030575805546443933,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_440,0,0,0.013643517439884817,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_441,1,0,0.10698792003792802,Contract_One year,InternetService_Fiber optic,tenure
+CUST_442,1,0,0.33159383829398986,InternetService_Fiber optic,Contract_Two year,tenure
+CUST_443,0,0,0.013049635178914457,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_444,0,0,0.23215525006454737,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_445,1,0,0.24222361382420318,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_446,0,0,0.21384067287775746,tenure,InternetService_Fiber optic,Contract_One year
+CUST_447,1,0,0.18198903526376856,tenure,Contract_One year,InternetService_Fiber optic
+CUST_448,0,0,0.06326372139937174,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_449,0,0,0.2779218271275024,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_450,0,0,0.2720366629306978,tenure,TotalCharges_20.25,InternetService_Fiber optic
+CUST_451,0,0,0.19029694220431753,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_452,0,0,0.05255768819729501,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_453,1,1,0.726051478517457,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_454,0,1,0.584807628816211,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_455,0,0,0.15988758635827918,tenure,InternetService_Fiber optic,Contract_One year
+CUST_456,0,1,0.830210904423675,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_457,0,0,0.007193575230830344,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_458,1,1,0.790922695185675,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_459,1,1,0.5016544953872624,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_460,0,0,0.13385253740656017,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_461,0,1,0.694341909292106,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_462,0,0,0.02878484171509648,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_463,0,0,0.10218183478701037,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_464,0,0,0.0547946881729538,tenure,Contract_One year,InternetService_Fiber optic
+CUST_465,1,1,0.7866731297255577,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_466,0,0,0.35388957606699833,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_467,1,1,0.7190383315714558,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_468,0,0,0.48050570708508766,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_469,0,0,0.24312867276492936,InternetService_Fiber optic,Contract_One year,MonthlyCharges
+CUST_470,1,1,0.7441981031780524,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_471,0,0,0.04043130794964196,Contract_One year,InternetService_Fiber optic,MonthlyCharges
+CUST_472,0,0,0.14612557540779283,InternetService_Fiber optic,PaperlessBilling_Yes,tenure
+CUST_473,0,0,0.009112457509385991,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_474,1,0,0.3565907055122676,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_475,0,0,0.012102570708053076,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_476,0,0,0.48534303738456935,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_477,1,1,0.6316687029033636,tenure,InternetService_Fiber optic,TotalCharges_162.45
+CUST_478,0,0,0.04237047474439701,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_479,1,0,0.40212102848599507,InternetService_Fiber optic,Contract_Two year,MultipleLines_Yes
+CUST_480,1,1,0.5769563813128875,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_481,0,0,0.34785572901025136,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_482,1,0,0.4063155291844307,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_483,0,0,0.1929813991123025,tenure,InternetService_Fiber optic,TotalCharges_316.9
+CUST_484,1,1,0.5862509594771451,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_485,0,0,0.07458331984902286,tenure,Contract_One year,InternetService_Fiber optic
+CUST_486,0,0,0.04592208834539723,Contract_One year,InternetService_Fiber optic,tenure
+CUST_487,0,0,0.006633688588959165,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_488,0,0,0.14983116645784852,InternetService_Fiber optic,Contract_One year,MonthlyCharges
+CUST_489,0,0,0.2546381219039476,InternetService_Fiber optic,PaperlessBilling_Yes,Contract_Two year
+CUST_490,0,1,0.583543669574618,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_491,0,0,0.05818261502123228,tenure,InternetService_Fiber optic,Contract_One year
+CUST_492,0,0,0.11366911330914885,tenure,Contract_One year,InternetService_Fiber optic
+CUST_493,0,0,0.3608016265446994,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_494,0,0,0.4366815437372248,InternetService_Fiber optic,StreamingMovies_Yes,OnlineSecurity_Yes
+CUST_495,0,0,0.023963656058042796,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_496,1,1,0.7097347828590772,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_497,0,0,0.4258351432893766,InternetService_Fiber optic,StreamingMovies_Yes,Contract_Two year
+CUST_498,0,0,0.22823396654031372,Contract_One year,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_499,0,0,0.01461868020978148,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_500,0,0,0.060432568684987135,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_501,0,0,0.03509622161583027,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_502,0,0,0.29109699353832474,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_503,0,0,0.0055318901354062,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_504,0,0,0.42979633465313466,InternetService_Fiber optic,Contract_Two year,tenure
+CUST_505,0,0,0.2291437740094364,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_506,1,1,0.6879427764837296,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_507,1,1,0.5435838347539426,InternetService_Fiber optic,MonthlyCharges,StreamingMovies_Yes
+CUST_508,0,0,0.2274777149760658,tenure,TotalCharges_220.45,InternetService_Fiber optic
+CUST_509,0,0,0.32412839492483425,InternetService_Fiber optic,StreamingMovies_Yes,Contract_Two year
+CUST_510,0,0,0.024351528175424124,tenure,Contract_One year,InternetService_Fiber optic
+CUST_511,0,0,0.029253984968240127,tenure,Contract_One year,InternetService_Fiber optic
+CUST_512,0,1,0.6742813941509906,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_513,1,1,0.8105006452189523,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_514,0,0,0.007958151652161379,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_515,0,0,0.09305114200204981,Contract_One year,InternetService_Fiber optic,PaperlessBilling_Yes
+CUST_516,0,0,0.008374754167537538,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_517,1,0,0.0707360434580507,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_518,1,1,0.5653561041280761,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_519,1,1,0.6389923018779112,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_520,0,1,0.5759262330029914,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_521,0,0,0.05569453667757672,Contract_One year,InternetService_Fiber optic,tenure
+CUST_522,0,0,0.04968790287866325,Contract_One year,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_523,0,0,0.004441106393286376,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_524,0,0,0.005693109435026873,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_525,0,0,0.20737914193986373,tenure,InternetService_Fiber optic,Contract_One year
+CUST_526,1,0,0.10651343432312699,InternetService_Fiber optic,MonthlyCharges,tenure
+CUST_527,0,0,0.014741403586119894,tenure,Contract_One year,InternetService_Fiber optic
+CUST_528,0,0,0.004604408316617565,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_529,0,0,0.2954237550011532,tenure,InternetService_Fiber optic,Contract_One year
+CUST_530,0,1,0.5160319673690617,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_531,0,0,0.07174360311994282,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_532,0,1,0.5743208201125375,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_533,0,0,0.4830523906879207,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_534,0,0,0.10797291544185492,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_535,1,1,0.6112485492413164,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_536,1,1,0.6725062938312532,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_537,0,0,0.11538168417697708,tenure,InternetService_Fiber optic,PaperlessBilling_Yes
+CUST_538,0,0,0.04035734357613575,tenure,InternetService_Fiber optic,Contract_One year
+CUST_539,1,1,0.6597672392711975,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_540,0,0,0.433431525196144,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_541,0,0,0.014732062191868596,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_542,0,0,0.009661191465676412,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_543,0,0,0.2807796661481325,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_544,0,0,0.07038663486897803,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_545,1,1,0.7420524445044073,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_546,0,0,0.06402073246514023,tenure,InternetService_Fiber optic,Contract_One year
+CUST_547,0,0,0.10414105439521697,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_548,0,0,0.03280454375714041,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_549,0,0,0.44199740149635036,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_550,0,0,0.15663796708097869,tenure,InternetService_Fiber optic,Contract_One year
+CUST_551,0,0,0.1628263697695389,TotalCharges_816.8,InternetService_Fiber optic,tenure
+CUST_552,0,0,0.04388566899865706,Contract_One year,InternetService_Fiber optic,MonthlyCharges
+CUST_553,0,0,0.4706612622738081,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_554,0,0,0.10368500021634644,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_555,1,1,0.5185894537383136,InternetService_Fiber optic,Contract_Two year,MultipleLines_Yes
+CUST_556,0,0,0.17585771376817835,InternetService_Fiber optic,tenure,TechSupport_Yes
+CUST_557,0,0,0.007688104647155759,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_558,0,1,0.6713120264850182,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_559,0,0,0.19791666202392055,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_560,1,0,0.3071472607943624,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_561,0,0,0.016699578155058365,tenure,InternetService_Fiber optic,Contract_One year
+CUST_562,0,0,0.00806182477352925,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_563,0,0,0.009705574407812652,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_564,1,1,0.6756799543545016,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_565,0,0,0.05688862272824212,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_566,0,0,0.014940583028163219,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_567,0,0,0.01201488387237766,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_568,0,0,0.24791013387493221,InternetService_Fiber optic,StreamingMovies_Yes,tenure
+CUST_569,1,0,0.25089007276089126,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_570,0,0,0.04493229992941826,tenure,InternetService_Fiber optic,Contract_One year
+CUST_571,0,0,0.07481013677243191,Contract_One year,InternetService_Fiber optic,tenure
+CUST_572,0,0,0.29538670068088063,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_573,0,0,0.010324494763171706,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_574,0,0,0.08185810495080027,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_575,0,1,0.7253449453297248,InternetService_Fiber optic,Contract_Two year,tenure
+CUST_576,0,0,0.02468045731105561,tenure,Contract_One year,InternetService_Fiber optic
+CUST_577,0,0,0.3761751937725606,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_578,0,0,0.1443172189958802,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_579,0,0,0.35754512113993925,TotalCharges_45.3,tenure,InternetService_Fiber optic
+CUST_580,0,0,0.11693184477719522,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_581,1,1,0.6917419081318614,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_582,0,0,0.021804526604317143,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_583,0,0,0.2782393632079737,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_584,0,0,0.03954525368102742,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_585,0,0,0.3868368025991185,InternetService_Fiber optic,OnlineSecurity_Yes,Contract_Two year
+CUST_586,0,0,0.006712084228945273,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_587,0,0,0.25096063117717465,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_588,1,1,0.5974450298876375,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_589,1,0,0.4506568395023132,InternetService_Fiber optic,Contract_Two year,PaperlessBilling_Yes
+CUST_590,0,0,0.42886433224587545,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_591,0,0,0.005369963639533736,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_592,1,1,0.5937039410713972,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_593,0,0,0.19892933903207533,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_594,0,0,0.3536288087946966,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_595,0,0,0.006522877540754703,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_596,0,0,0.020549543314547208,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_597,0,0,0.2610681912328009,InternetService_Fiber optic,Contract_Two year,MultipleLines_Yes
+CUST_598,1,1,0.5704694578550972,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_599,0,0,0.34539525202245197,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_600,0,1,0.5875777999877573,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_601,0,0,0.08637380604569574,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_602,0,0,0.011642981791892142,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_603,1,0,0.4815188671056277,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_604,1,0,0.34545609126992943,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_605,1,0,0.3274349944200239,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_606,0,0,0.005335913586060636,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_607,0,0,0.301506578764806,Contract_One year,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_608,0,0,0.4956721948511235,InternetService_Fiber optic,StreamingMovies_Yes,Contract_Two year
+CUST_609,0,0,0.11731585749978332,tenure,InternetService_Fiber optic,Contract_One year
+CUST_610,1,1,0.5170369113680354,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_611,1,0,0.1925840118840146,Contract_One year,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_612,0,0,0.012850125089994505,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_613,0,0,0.05139454867141806,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_614,0,0,0.27790709480932474,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_615,0,0,0.1770093908150422,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_616,1,1,0.6905502875790231,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_617,1,1,0.680305852550223,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_618,0,0,0.3811413594463057,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_619,0,0,0.04837590107165386,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_620,1,1,0.6269007330417131,InternetService_Fiber optic,Contract_Two year,tenure
+CUST_621,0,0,0.0867731777641834,tenure,InternetService_Fiber optic,Contract_One year
+CUST_622,0,0,0.3878876928189116,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_623,0,0,0.33363287438325956,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_624,0,0,0.08615619467133315,Contract_One year,InternetService_Fiber optic,tenure
+CUST_625,0,0,0.13437101665326334,InternetService_Fiber optic,MonthlyCharges,tenure
+CUST_626,0,1,0.5263860509247685,InternetService_Fiber optic,Contract_Two year,MultipleLines_Yes
+CUST_627,1,0,0.21634550188617271,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_628,0,0,0.06309924799578172,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_629,0,1,0.5684506815842068,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_630,0,0,0.022791800020183658,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_631,1,0,0.09380717486473071,InternetService_Fiber optic,OnlineSecurity_Yes,PaperlessBilling_Yes
+CUST_632,1,0,0.41354673719445273,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_633,0,0,0.1309621600465988,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_634,0,0,0.03572023441822835,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_635,0,0,0.009345115930350494,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_636,1,1,0.7318368074737317,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_637,1,0,0.3207130785045404,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_638,1,1,0.6069974388012658,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_639,0,1,0.7459788123338302,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_640,0,0,0.032729784809463834,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_641,0,0,0.3943325184501517,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_642,0,0,0.3709169222230756,InternetService_Fiber optic,Contract_One year,StreamingMovies_Yes
+CUST_643,0,0,0.0043878011691205355,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_644,0,0,0.017125926793151752,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_645,1,0,0.3672562726375546,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_646,0,0,0.23334243784516534,tenure,InternetService_Fiber optic,Contract_One year
+CUST_647,0,0,0.23385960737907935,tenure,TotalCharges_19.5,InternetService_Fiber optic
+CUST_648,1,1,0.6577820655722565,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_649,1,0,0.09923139494805903,tenure,InternetService_Fiber optic,Contract_One year
+CUST_650,1,0,0.16893799861813516,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_651,0,1,0.5459177499933511,InternetService_Fiber optic,MonthlyCharges,StreamingMovies_Yes
+CUST_652,0,0,0.05216423620431069,InternetService_Fiber optic,Contract_One year,MonthlyCharges
+CUST_653,0,0,0.1356062736884885,tenure,InternetService_Fiber optic,Contract_One year
+CUST_654,0,0,0.22969073397443382,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_655,1,1,0.6273614644448454,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_656,1,0,0.2023625926887196,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_657,0,0,0.011207880768980487,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_658,0,0,0.261906180179679,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_659,0,1,0.5127324323833653,tenure,InternetService_Fiber optic,TotalCharges_74.6
+CUST_660,0,0,0.021560910544812815,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_661,0,0,0.04584866355453418,tenure,InternetService_Fiber optic,Contract_One year
+CUST_662,0,0,0.027572313001131946,tenure,InternetService_Fiber optic,Contract_One year
+CUST_663,0,0,0.1334202823338071,tenure,InternetService_Fiber optic,Contract_One year
+CUST_664,1,0,0.4909087764883782,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_665,1,0,0.37482265396241093,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_666,0,0,0.06438264253799966,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_667,1,1,0.636661131232567,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_668,0,0,0.29494456514515355,InternetService_Fiber optic,StreamingMovies_Yes,Contract_Two year
+CUST_669,0,1,0.5431556292445906,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_670,0,0,0.013356223895095465,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_671,0,0,0.046990681464142266,tenure,Contract_One year,InternetService_Fiber optic
+CUST_672,0,0,0.024062551799281153,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_673,0,0,0.04106392442912594,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_674,1,1,0.8225061570913831,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_675,0,0,0.1880698061949832,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_676,0,0,0.01911523726561426,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_677,0,0,0.14479062605758927,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_678,1,1,0.5998816592599163,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_679,0,0,0.3073076127199462,InternetService_Fiber optic,Contract_One year,tenure
+CUST_680,1,1,0.8434015183984969,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_681,1,0,0.3527882399554788,InternetService_Fiber optic,OnlineSecurity_Yes,Contract_Two year
+CUST_682,1,0,0.1153925027388037,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_683,1,0,0.4512759709185912,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_684,0,0,0.025924956279691914,tenure,Contract_One year,InternetService_Fiber optic
+CUST_685,0,0,0.041173994086411286,Contract_Two year,InternetService_Fiber optic,tenure
+CUST_686,0,0,0.27597356389527194,Contract_One year,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_687,0,0,0.4943720277815262,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_688,1,1,0.6015937400013543,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_689,0,0,0.02079638409278539,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_690,0,0,0.10159493488145983,tenure,Contract_One year,InternetService_Fiber optic
+CUST_691,0,0,0.10732547127751105,InternetService_Fiber optic,OnlineSecurity_Yes,PaperlessBilling_Yes
+CUST_692,0,0,0.2843011332973088,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_693,0,0,0.459115951948283,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_694,0,0,0.3578484518843271,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_695,0,0,0.3483099978919307,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_696,0,0,0.21159500872296216,InternetService_Fiber optic,PaperlessBilling_Yes,MultipleLines_Yes
+CUST_697,1,0,0.1380179525243386,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_698,0,0,0.020322902096454567,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_699,0,0,0.20587625136558274,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_700,0,0,0.019792335722011944,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_701,1,1,0.5634834424379459,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_702,0,0,0.13699424241834457,InternetService_Fiber optic,tenure,TechSupport_Yes
+CUST_703,1,0,0.36930159031778903,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_704,0,0,0.06567133933615134,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_705,0,0,0.07286068432685039,InternetService_Fiber optic,MonthlyCharges,PaperlessBilling_Yes
+CUST_706,0,0,0.3170854755315444,TotalCharges_19.9,tenure,InternetService_Fiber optic
+CUST_707,1,1,0.6049752224043922,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_708,1,0,0.48528011463474585,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_709,0,0,0.2027495852929786,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_710,1,1,0.674884190814956,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_711,0,0,0.4477669319954333,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_712,0,0,0.006382212852803263,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_713,0,0,0.15440132434447137,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_714,0,0,0.018517151100772292,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_715,0,0,0.013389785220735095,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_716,0,0,0.030967953772485658,InternetService_Fiber optic,Contract_One year,tenure
+CUST_717,0,0,0.04167191677797764,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_718,0,0,0.26182750240855907,tenure,InternetService_Fiber optic,TechSupport_Yes
+CUST_719,0,0,0.11804432877432167,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_720,1,1,0.7907756768489358,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_721,0,0,0.3971952964012942,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_722,1,1,0.7055735802133216,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_723,1,0,0.02458664173122289,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_724,0,0,0.10669541407904203,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_725,0,0,0.04586559351541038,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_726,1,1,0.7389889854412317,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_727,0,1,0.7119773220558056,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_728,0,0,0.4218774709371786,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_729,0,0,0.010182356205338444,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_730,0,0,0.481744070022048,InternetService_Fiber optic,Contract_Two year,MonthlyCharges
+CUST_731,1,1,0.6538549898558039,tenure,TotalCharges_44.4,InternetService_Fiber optic
+CUST_732,1,1,0.7119698512725254,InternetService_Fiber optic,Contract_Two year,tenure
+CUST_733,0,0,0.035906512716994,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_734,0,0,0.37122413727282616,TotalCharges_19.95,tenure,InternetService_Fiber optic
+CUST_735,0,0,0.43050980893046537,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_736,0,0,0.04008644417636291,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_737,0,0,0.12387543250615739,tenure,Contract_One year,InternetService_Fiber optic
+CUST_738,0,0,0.005188182367662051,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_739,1,0,0.4258094237452382,InternetService_Fiber optic,tenure,Contract_One year
+CUST_740,0,0,0.22504409219368263,InternetService_Fiber optic,OnlineSecurity_Yes,Contract_Two year
+CUST_741,0,0,0.005167139635357139,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_742,0,0,0.46937706552848113,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_743,0,0,0.4319304448707776,tenure,TotalCharges_45.15,InternetService_Fiber optic
+CUST_744,1,1,0.71409039557719,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_745,0,0,0.1651498295655229,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_746,1,1,0.6502576156556114,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_747,0,0,0.039671964251789094,tenure,InternetService_Fiber optic,Contract_One year
+CUST_748,0,0,0.01615189161024549,tenure,InternetService_Fiber optic,Contract_One year
+CUST_749,1,1,0.7238887886953729,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_750,0,0,0.27884263962774014,InternetService_Fiber optic,Contract_Two year,MonthlyCharges
+CUST_751,1,0,0.3258242884417068,tenure,TotalCharges_20.15,InternetService_Fiber optic
+CUST_752,1,0,0.3708740553811568,tenure,TotalCharges_20.15,InternetService_Fiber optic
+CUST_753,0,0,0.14971118400227795,InternetService_Fiber optic,tenure,Contract_One year
+CUST_754,0,0,0.18174178145983683,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_755,1,1,0.7234061535623438,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_756,0,0,0.22872179791464262,tenure,InternetService_Fiber optic,PaperlessBilling_Yes
+CUST_757,1,1,0.6678070099780213,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_758,0,0,0.04038942837075116,tenure,Contract_One year,InternetService_Fiber optic
+CUST_759,1,1,0.5784196049493713,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_760,1,0,0.009013269183118629,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_761,0,0,0.02488093946635651,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_762,0,0,0.050362585514286996,Contract_Two year,InternetService_Fiber optic,tenure
+CUST_763,1,1,0.5068371403888349,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_764,0,0,0.20745570552376585,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_765,0,0,0.1038716971043319,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_766,0,0,0.01490561006649631,tenure,Contract_One year,InternetService_Fiber optic
+CUST_767,0,1,0.5308501063160836,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_768,0,0,0.013094850440003669,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_769,0,0,0.006761358601826829,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_770,0,0,0.02410050540684967,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_771,0,0,0.016923791781356935,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_772,0,0,0.4691340805121592,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_773,1,1,0.7018961363850749,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_774,0,0,0.21476997889961424,tenure,TotalCharges_135.75,InternetService_Fiber optic
+CUST_775,0,0,0.013727647260357582,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_776,0,1,0.7538103563169375,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_777,0,0,0.37832221041424985,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_778,1,0,0.13505831904105764,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_779,0,1,0.5186977894309209,InternetService_Fiber optic,StreamingMovies_Yes,Contract_Two year
+CUST_780,0,0,0.0064735834615763195,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_781,0,1,0.6153874489930805,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_782,0,0,0.3307880168164391,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_783,0,0,0.04310467082109631,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_784,0,0,0.294793508045415,tenure,Contract_One year,InternetService_Fiber optic
+CUST_785,0,0,0.12737129156037347,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_786,0,0,0.44059179548104777,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_787,0,0,0.2942837695561267,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_788,0,0,0.2206762160286726,tenure,TotalCharges_20.05,InternetService_Fiber optic
+CUST_789,1,1,0.5456932161499077,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_790,0,1,0.7484950318921815,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_791,1,1,0.661453357718188,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_792,1,0,0.15215710182741124,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_793,0,0,0.0627867145321563,Contract_One year,InternetService_Fiber optic,tenure
+CUST_794,1,0,0.14121562933116966,tenure,InternetService_Fiber optic,Contract_One year
+CUST_795,0,1,0.5530272717009798,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_796,0,0,0.07517733193040131,tenure,Contract_One year,InternetService_Fiber optic
+CUST_797,0,0,0.013801190464935442,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_798,0,0,0.4060578589429967,InternetService_Fiber optic,tenure,StreamingMovies_Yes
+CUST_799,0,0,0.016547524245850827,Contract_Two year,InternetService_Fiber optic,tenure
+CUST_800,0,0,0.1933861017370843,InternetService_Fiber optic,OnlineSecurity_Yes,MultipleLines_Yes
+CUST_801,0,0,0.12547035999786257,tenure,Contract_One year,InternetService_Fiber optic
+CUST_802,0,0,0.09999119670843096,InternetService_Fiber optic,Contract_One year,MonthlyCharges
+CUST_803,1,1,0.6384292157437574,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_804,0,0,0.005997007751910944,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_805,0,0,0.01574110894443958,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_806,0,1,0.7149560780756159,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_807,0,0,0.009280463887431162,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_808,0,0,0.009109331659234615,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_809,0,0,0.44373010141693636,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_810,1,0,0.13441770919991353,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_811,0,0,0.1744571436088382,InternetService_Fiber optic,Contract_One year,OnlineSecurity_Yes
+CUST_812,0,1,0.5425476473079048,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_813,0,0,0.05024454412537593,Contract_One year,InternetService_Fiber optic,MonthlyCharges
+CUST_814,0,0,0.2858639474046017,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_815,0,0,0.23244518977639783,tenure,InternetService_Fiber optic,Contract_One year
+CUST_816,1,1,0.7205756077343929,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_817,0,0,0.05931463009105298,tenure,InternetService_Fiber optic,Contract_One year
+CUST_818,0,0,0.2984070459360283,tenure,TotalCharges_45.75,InternetService_Fiber optic
+CUST_819,0,0,0.06019692824894459,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_820,0,1,0.7456924970714669,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_821,0,0,0.019697867656408664,tenure,Contract_One year,InternetService_Fiber optic
+CUST_822,1,1,0.753879272598597,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_823,1,1,0.6944692362299721,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_824,1,0,0.459703697154271,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_825,1,1,0.7405155413868633,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_826,0,0,0.009746895534374137,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_827,0,0,0.16146982082488076,InternetService_Fiber optic,TechSupport_Yes,Contract_Two year
+CUST_828,0,0,0.011698559706565907,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_829,0,0,0.10205343328743093,InternetService_Fiber optic,MonthlyCharges,tenure
+CUST_830,0,0,0.022861379317667747,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_831,0,0,0.02014865776630667,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_832,0,0,0.13973437631073357,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_833,0,0,0.034250934049296314,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_834,0,0,0.46849891933934457,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_835,1,1,0.6967065535097023,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_836,0,0,0.24498022753065543,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_837,1,1,0.6346696945385858,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_838,0,0,0.011678570467536436,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_839,0,0,0.045628910130502034,tenure,InternetService_Fiber optic,Contract_One year
+CUST_840,0,0,0.13117198068124875,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_841,0,0,0.2288441943228621,InternetService_Fiber optic,tenure,PaperlessBilling_Yes
+CUST_842,0,0,0.4288753349011073,TotalCharges_20.2,tenure,Contract_Two year
+CUST_843,0,0,0.009350553054586869,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_844,0,1,0.7570817673086795,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_845,0,0,0.24857967341044065,tenure,InternetService_Fiber optic,Contract_One year
+CUST_846,0,0,0.025957846177189298,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_847,0,0,0.03734508984895057,Contract_Two year,InternetService_Fiber optic,tenure
+CUST_848,0,1,0.6755071546862464,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_849,0,0,0.05378864586844193,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_850,0,0,0.006443547111941722,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_851,0,0,0.0737167335898645,Contract_One year,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_852,0,0,0.19009785279222527,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_853,1,1,0.6329069166552045,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_854,0,0,0.0074980630650814135,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_855,0,0,0.12432858127000883,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_856,0,0,0.4495147412047572,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_857,1,1,0.5606090378179847,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_858,0,1,0.5555620568056328,InternetService_Fiber optic,Contract_Two year,PaymentMethod_Electronic check
+CUST_859,1,1,0.7930982429586854,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_860,0,0,0.11586909659031562,Contract_One year,InternetService_Fiber optic,tenure
+CUST_861,0,0,0.2936362926262142,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_862,0,0,0.09757582598126527,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_863,1,1,0.7684305988501816,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_864,0,0,0.02562460095154239,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_865,0,0,0.037685919105962466,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_866,0,0,0.42449024413957825,InternetService_Fiber optic,Contract_Two year,PaymentMethod_Electronic check
+CUST_867,1,0,0.2204346394527742,tenure,InternetService_Fiber optic,TotalCharges_48.6
+CUST_868,0,0,0.00892400878476889,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_869,0,0,0.02712413831172533,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_870,0,1,0.7309356802220838,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_871,0,0,0.3093097512090097,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_872,1,0,0.2128697506755421,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_873,1,1,0.5970277110008392,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_874,0,0,0.0389562046515359,tenure,Contract_One year,InternetService_Fiber optic
+CUST_875,1,1,0.5664653962584945,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_876,0,0,0.3154826310715756,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_877,0,0,0.24312327943334247,tenure,InternetService_Fiber optic,Contract_One year
+CUST_878,0,1,0.5146211206633724,tenure,TotalCharges_45.4,InternetService_Fiber optic
+CUST_879,1,0,0.0872476919102714,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_880,0,0,0.04050959950444058,Contract_One year,InternetService_Fiber optic,MonthlyCharges
+CUST_881,0,0,0.10564081217312309,InternetService_Fiber optic,Contract_One year,tenure
+CUST_882,0,0,0.06421811030975691,tenure,InternetService_Fiber optic,Contract_One year
+CUST_883,0,0,0.34917963628082355,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_884,0,0,0.012870492722218867,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_885,1,1,0.7224444764454678,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_886,0,0,0.05750166579575737,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_887,0,0,0.30932705301922725,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_888,1,1,0.7542161213623808,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_889,0,0,0.01633886975121727,tenure,Contract_One year,InternetService_Fiber optic
+CUST_890,0,0,0.25838487602965027,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_891,0,0,0.011166886828895365,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_892,0,0,0.028789442564791396,tenure,InternetService_Fiber optic,Contract_One year
+CUST_893,0,0,0.0142371181212584,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_894,0,0,0.2475868081574858,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_895,0,0,0.1170240140526409,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_896,0,0,0.005822991768195053,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_897,0,0,0.007347351143230373,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_898,1,0,0.46616891422076157,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_899,1,0,0.1873779272484156,Contract_One year,InternetService_Fiber optic,tenure
+CUST_900,0,0,0.3118215811481732,tenure,InternetService_Fiber optic,TotalCharges_44.55
+CUST_901,0,0,0.0935309603765017,tenure,Contract_One year,InternetService_Fiber optic
+CUST_902,0,0,0.043170721840645625,Contract_Two year,InternetService_Fiber optic,tenure
+CUST_903,1,1,0.7212359199203835,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_904,0,0,0.08433932166641411,tenure,Contract_One year,InternetService_Fiber optic
+CUST_905,0,0,0.018039804945939944,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_906,0,0,0.01239934587388481,Contract_Two year,InternetService_Fiber optic,TotalCharges_487.05
+CUST_907,0,0,0.12359769892169777,InternetService_Fiber optic,MonthlyCharges,PaperlessBilling_Yes
+CUST_908,0,0,0.11084497944201627,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_909,0,1,0.6521332814385294,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_910,0,0,0.044570988386321335,tenure,Contract_One year,InternetService_Fiber optic
+CUST_911,0,0,0.01574782351776468,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_912,0,0,0.0649198909998103,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_913,0,0,0.30488682563397296,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_914,0,0,0.35372870720232047,tenure,TotalCharges_51.25,InternetService_Fiber optic
+CUST_915,1,1,0.7152549054461806,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_916,1,0,0.010834664114207164,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_917,1,1,0.6324304470506006,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_918,0,0,0.44331798608028394,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_919,0,0,0.13332586078037575,tenure,InternetService_Fiber optic,Contract_One year
+CUST_920,0,0,0.3616485856082402,tenure,InternetService_Fiber optic,Contract_One year
+CUST_921,0,0,0.4981559631126719,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_922,0,0,0.15110604491119817,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_923,0,0,0.014464684064107631,tenure,InternetService_Fiber optic,Contract_One year
+CUST_924,0,0,0.18525615879439322,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_925,0,0,0.07617674839155127,InternetService_Fiber optic,MonthlyCharges,PaperlessBilling_Yes
+CUST_926,1,1,0.7083672924060416,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_927,0,0,0.09403309005226668,Contract_One year,InternetService_Fiber optic,tenure
+CUST_928,0,0,0.32927852386259754,InternetService_Fiber optic,Contract_One year,tenure
+CUST_929,0,0,0.02710584931315999,tenure,Contract_One year,InternetService_Fiber optic
+CUST_930,0,0,0.28522239822930184,tenure,InternetService_Fiber optic,Contract_One year
+CUST_931,0,0,0.14197781582379942,Contract_Two year,InternetService_Fiber optic,tenure
+CUST_932,0,0,0.13284223126295475,tenure,TotalCharges_235.05,InternetService_Fiber optic
+CUST_933,0,0,0.052265918032877924,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_934,0,0,0.4199266255252118,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_935,0,0,0.01715185545936425,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_936,1,1,0.8085134077216491,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_937,0,0,0.022003606844844602,tenure,Contract_One year,InternetService_Fiber optic
+CUST_938,1,0,0.18494830488761438,InternetService_Fiber optic,tenure,TechSupport_Yes
+CUST_939,0,0,0.006677886427649365,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_940,0,0,0.09636992257877597,Contract_Two year,InternetService_Fiber optic,tenure
+CUST_941,0,0,0.10603428556621541,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_942,0,0,0.021094416067165184,tenure,Contract_One year,InternetService_Fiber optic
+CUST_943,1,1,0.5173039994914466,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_944,0,0,0.11868832654958143,tenure,InternetService_Fiber optic,Contract_One year
+CUST_945,1,0,0.26891835236421974,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_946,0,0,0.07108300823764407,tenure,InternetService_Fiber optic,Contract_One year
+CUST_947,0,0,0.09427457569086646,tenure,InternetService_Fiber optic,Contract_One year
+CUST_948,0,0,0.49341224787205,InternetService_Fiber optic,MonthlyCharges,StreamingMovies_Yes
+CUST_949,0,0,0.033907261239218056,tenure,InternetService_Fiber optic,Contract_One year
+CUST_950,0,0,0.03992175639959882,InternetService_Fiber optic,Contract_One year,tenure
+CUST_951,0,0,0.004300163188320825,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_952,1,1,0.7697023354461056,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_953,0,0,0.04132205859664803,tenure,InternetService_Fiber optic,Contract_One year
+CUST_954,0,0,0.022030186972466295,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_955,0,0,0.09979178656611742,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_956,0,0,0.04245859244669193,InternetService_Fiber optic,Contract_One year,tenure
+CUST_957,0,0,0.13565386069215432,InternetService_Fiber optic,tenure,PaperlessBilling_Yes
+CUST_958,1,0,0.2793824165178171,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_959,1,0,0.27434984124148404,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_960,0,0,0.4815096378368003,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_961,0,0,0.024285308547850958,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_962,0,0,0.4890833092610539,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_963,1,0,0.4426033925294651,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_964,1,1,0.7084994665532973,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_965,0,0,0.0678734749137203,tenure,InternetService_Fiber optic,Contract_One year
+CUST_966,1,0,0.3199096114611925,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_967,0,0,0.16319465410063408,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_968,0,0,0.1570390187812883,tenure,InternetService_Fiber optic,Contract_One year
+CUST_969,0,0,0.08090615101378186,InternetService_Fiber optic,Contract_One year,OnlineSecurity_Yes
+CUST_970,1,1,0.6399727885512676,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_971,0,0,0.00892145086342765,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_972,1,0,0.42864795459056126,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_973,0,1,0.7463340889054914,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_974,0,0,0.0253360694897131,tenure,Contract_One year,InternetService_Fiber optic
+CUST_975,0,0,0.3064491510699436,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_976,0,0,0.07526007176538921,InternetService_Fiber optic,MonthlyCharges,PaperlessBilling_Yes
+CUST_977,0,0,0.05711272103375674,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_978,0,0,0.4540657255216785,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_979,0,0,0.11090570508406138,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_980,0,0,0.4656186135682478,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_981,1,0,0.2933660496145277,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_982,1,0,0.4316009047084523,InternetService_Fiber optic,tenure,StreamingMovies_Yes
+CUST_983,0,0,0.021963206842244155,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_984,1,0,0.13897049072797515,tenure,Contract_One year,InternetService_Fiber optic
+CUST_985,0,0,0.007573604071519783,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_986,0,1,0.7145035599374646,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_987,0,0,0.14210002556725487,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_988,1,1,0.5236483939960344,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_989,0,0,0.1662255107159813,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_990,0,1,0.6462530365812089,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_991,0,1,0.5512452612051323,InternetService_Fiber optic,tenure,StreamingMovies_Yes
+CUST_992,0,0,0.03257705615882504,tenure,Contract_One year,InternetService_Fiber optic
+CUST_993,0,0,0.02722319605461395,tenure,InternetService_Fiber optic,Contract_One year
+CUST_994,0,1,0.7023406434434388,tenure,InternetService_Fiber optic,TotalCharges_74.7
+CUST_995,0,0,0.015906765301151645,Contract_Two year,InternetService_Fiber optic,TotalCharges_383.65
+CUST_996,1,1,0.6875736817259522,InternetService_Fiber optic,Contract_Two year,tenure
+CUST_997,1,1,0.6257210686764006,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_998,0,0,0.017598029750537113,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_999,0,0,0.21145384081227694,Contract_One year,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_1000,0,0,0.26751149426490894,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1001,0,0,0.06806128111260767,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1002,0,0,0.33144618429091366,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_1003,0,0,0.02989217188248749,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_1004,0,0,0.320138221879181,TotalCharges_44.4,tenure,InternetService_Fiber optic
+CUST_1005,0,0,0.48967997677663466,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1006,0,1,0.6052114918214044,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1007,1,1,0.5524511876472341,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1008,1,1,0.6650905121442185,TotalCharges_45.3,tenure,InternetService_Fiber optic
+CUST_1009,0,0,0.09677163399041447,Contract_Two year,InternetService_Fiber optic,tenure
+CUST_1010,0,0,0.011609846438302204,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1011,1,1,0.6642535229444289,InternetService_Fiber optic,Contract_Two year,tenure
+CUST_1012,0,0,0.14535813900916467,tenure,Contract_One year,InternetService_Fiber optic
+CUST_1013,1,1,0.730865421139378,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1014,1,1,0.7855093659198307,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1015,0,1,0.5754689684712849,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_1016,0,0,0.03510860043565213,Contract_Two year,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_1017,0,0,0.017076078484870735,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1018,1,1,0.7018441807633755,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1019,0,0,0.013805048580205119,tenure,Contract_One year,InternetService_Fiber optic
+CUST_1020,0,1,0.539806342667001,InternetService_Fiber optic,Contract_Two year,tenure
+CUST_1021,0,1,0.6856877491177943,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1022,0,0,0.010094211473583312,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1023,1,1,0.6481531693549227,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1024,0,0,0.07316402685578592,Contract_One year,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_1025,0,0,0.24588259197105664,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_1026,0,0,0.014631438059736965,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1027,0,0,0.03215650829576438,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1028,0,0,0.1814718721219144,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_1029,0,0,0.2124322232889647,tenure,InternetService_Fiber optic,PaperlessBilling_Yes
+CUST_1030,0,0,0.13460799643466,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_1031,0,0,0.44686532954617014,InternetService_Fiber optic,MonthlyCharges,OnlineSecurity_Yes
+CUST_1032,0,0,0.3060085489534989,TotalCharges_137.6,tenure,InternetService_Fiber optic
+CUST_1033,1,1,0.5960023660340954,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1034,1,1,0.6179491150825006,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1035,1,1,0.6233753128215169,InternetService_Fiber optic,Contract_Two year,MonthlyCharges
+CUST_1036,0,1,0.808238825317017,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_1037,1,1,0.6185639325881894,InternetService_Fiber optic,Contract_Two year,MonthlyCharges
+CUST_1038,1,1,0.6584371395207016,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1039,1,0,0.431694912732454,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1040,1,0,0.3787278826951999,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1041,1,1,0.6581135770436334,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1042,0,0,0.15399969552754547,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1043,0,1,0.6236984579262945,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1044,0,0,0.0727930024731569,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1045,0,0,0.25547845744148484,InternetService_Fiber optic,Contract_One year,tenure
+CUST_1046,1,1,0.5803593607295702,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1047,0,1,0.5748804494858587,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1048,0,0,0.2967677803239118,InternetService_Fiber optic,Contract_Two year,PaymentMethod_Electronic check
+CUST_1049,0,0,0.03457304385179803,Contract_Two year,InternetService_Fiber optic,tenure
+CUST_1050,0,0,0.087187751105692,InternetService_Fiber optic,Contract_One year,tenure
+CUST_1051,0,0,0.04501353648945992,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1052,1,0,0.270802579216625,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_1053,0,0,0.024653342113391465,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1054,0,1,0.565273376211011,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1055,0,0,0.034531663203487814,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_1056,0,0,0.11509861799619403,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1057,0,0,0.00494776860958419,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1058,0,0,0.2823281169955092,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1059,1,0,0.43709634071209347,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1060,0,0,0.4377456915262114,tenure,InternetService_Fiber optic,TotalCharges_238.5
+CUST_1061,0,0,0.2866398903176124,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_1062,0,0,0.019716066752884384,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1063,0,0,0.49622199075487544,InternetService_Fiber optic,Contract_Two year,OnlineSecurity_Yes
+CUST_1064,0,1,0.5205452596975565,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1065,0,0,0.07404257604562883,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1066,0,0,0.29307045990145236,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1067,0,0,0.05686841657864716,tenure,Contract_One year,InternetService_Fiber optic
+CUST_1068,1,0,0.2394337485539698,InternetService_Fiber optic,StreamingMovies_Yes,PaperlessBilling_Yes
+CUST_1069,0,0,0.39665913718941015,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1070,0,0,0.052777947774075164,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1071,0,0,0.25670109265750246,InternetService_Fiber optic,Contract_One year,MonthlyCharges
+CUST_1072,0,0,0.24820093962160708,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1073,0,0,0.47111886229557304,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1074,0,0,0.008459645172644036,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1075,1,1,0.5547688834396861,InternetService_Fiber optic,tenure,StreamingMovies_Yes
+CUST_1076,1,1,0.5573785102513609,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_1077,0,0,0.008965295218422095,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1078,0,0,0.08324135101643036,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1079,0,0,0.00613036854855692,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1080,1,0,0.4927469712878954,InternetService_Fiber optic,StreamingMovies_Yes,Contract_Two year
+CUST_1081,1,1,0.8032792686233771,tenure,InternetService_Fiber optic,TotalCharges_69.65
+CUST_1082,0,0,0.03021219184103006,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1083,1,1,0.553903674785387,tenure,TotalCharges_45.1,InternetService_Fiber optic
+CUST_1084,0,0,0.2616688348493313,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1085,1,1,0.6642914289722067,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1086,0,0,0.09392754651078297,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1087,0,0,0.010688836945936824,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1088,0,0,0.3434910459175177,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_1089,0,0,0.08327271773430259,tenure,Contract_One year,InternetService_Fiber optic
+CUST_1090,0,0,0.02539630497869132,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_1091,0,0,0.10664720027322779,tenure,Contract_One year,InternetService_Fiber optic
+CUST_1092,0,0,0.3924355027082617,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1093,0,0,0.3486084027353616,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1094,0,0,0.10039296641189817,tenure,Contract_One year,InternetService_Fiber optic
+CUST_1095,0,0,0.0947276565820393,Contract_One year,tenure,InternetService_Fiber optic
+CUST_1096,0,1,0.6439733064306223,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1097,0,1,0.6720345160366219,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1098,0,0,0.013395597458344064,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1099,0,0,0.14773320600534637,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1100,1,0,0.3712043198271803,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1101,1,1,0.6015140278192779,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1102,0,0,0.1572103608023343,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1103,1,1,0.5493746867982678,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1104,0,0,0.006783557954062803,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1105,0,0,0.3078250076117871,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1106,1,1,0.8580964950318577,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1107,0,0,0.031013391808890293,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1108,0,0,0.006772700033040998,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1109,1,1,0.867186791608815,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1110,0,0,0.4282148750213587,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1111,0,0,0.39470318649757025,InternetService_Fiber optic,StreamingMovies_Yes,Contract_Two year
+CUST_1112,1,1,0.7178564663011502,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1113,0,0,0.12906418728627186,InternetService_Fiber optic,Contract_One year,OnlineSecurity_Yes
+CUST_1114,0,0,0.18264261774327653,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1115,0,0,0.05427088398837212,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1116,1,0,0.18794672846528845,InternetService_Fiber optic,TechSupport_Yes,Contract_Two year
+CUST_1117,1,0,0.3275269064002525,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1118,0,0,0.4241388163624944,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1119,1,1,0.7636099659672421,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1120,0,0,0.041916021341025095,Contract_One year,InternetService_Fiber optic,tenure
+CUST_1121,0,0,0.319088582301217,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1122,0,0,0.0072030221046667856,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1123,0,0,0.08699137360825492,Contract_One year,InternetService_Fiber optic,tenure
+CUST_1124,0,0,0.40541330932051484,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1125,0,0,0.007368799448355879,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1126,0,0,0.012920480780600842,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1127,1,0,0.25855224997386184,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_1128,0,0,0.03961716828176384,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1129,0,0,0.16473261413561102,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_1130,0,0,0.01620470178566938,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_1131,0,0,0.25059499513270533,InternetService_Fiber optic,PaperlessBilling_Yes,Contract_Two year
+CUST_1132,0,0,0.07733341883090394,Contract_One year,tenure,InternetService_Fiber optic
+CUST_1133,0,0,0.04198755570484704,InternetService_Fiber optic,Contract_One year,MonthlyCharges
+CUST_1134,0,0,0.33158655682907107,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1135,1,1,0.6805683994251428,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1136,0,0,0.00553597789003754,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1137,0,0,0.02374994765762363,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1138,1,1,0.5455494317818426,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1139,0,0,0.013047991172309155,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1140,0,0,0.007887878596979248,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1141,1,0,0.3326193157767995,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1142,0,0,0.02273041012814049,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1143,0,0,0.006111443552224353,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1144,0,1,0.7883602026115086,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1145,0,1,0.5628681375630027,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1146,1,0,0.09637236994311242,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_1147,1,1,0.6595595989779557,tenure,InternetService_Fiber optic,TotalCharges_147.15
+CUST_1148,0,0,0.038882403077425985,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1149,0,1,0.5534787660319167,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1150,1,1,0.868281966872158,tenure,InternetService_Fiber optic,TotalCharges_449.75
+CUST_1151,1,1,0.6948800336146583,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1152,0,0,0.1992269022522197,InternetService_Fiber optic,Contract_Two year,PaymentMethod_Electronic check
+CUST_1153,0,0,0.02172455816572417,Contract_Two year,InternetService_Fiber optic,tenure
+CUST_1154,0,0,0.49868502562748124,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1155,0,0,0.4822608054612326,InternetService_Fiber optic,StreamingMovies_Yes,Contract_Two year
+CUST_1156,1,1,0.6320793870496698,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1157,0,0,0.01350566355024941,tenure,Contract_One year,InternetService_Fiber optic
+CUST_1158,0,0,0.15639919433225327,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_1159,0,0,0.08176081052011182,InternetService_Fiber optic,Contract_One year,tenure
+CUST_1160,1,1,0.7274429344462712,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1161,0,0,0.005205583588895275,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1162,1,1,0.6977194956580542,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1163,1,1,0.687413266592758,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1164,0,0,0.02043102287382449,Contract_Two year,InternetService_Fiber optic,tenure
+CUST_1165,0,0,0.026523889436050607,tenure,Contract_One year,InternetService_Fiber optic
+CUST_1166,0,0,0.04925895847862227,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1167,0,0,0.00428169631466705,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1168,0,0,0.080477196844034,Contract_One year,InternetService_Fiber optic,PaperlessBilling_Yes
+CUST_1169,0,0,0.38990430049794733,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1170,0,0,0.29920607879333105,InternetService_Fiber optic,Contract_Two year,PaperlessBilling_Yes
+CUST_1171,0,0,0.036777084944779166,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1172,0,0,0.04479369566119268,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1173,1,0,0.22419699210816404,tenure,TotalCharges_50.15,InternetService_Fiber optic
+CUST_1174,0,0,0.31974604199187046,InternetService_Fiber optic,OnlineSecurity_Yes,Contract_Two year
+CUST_1175,1,0,0.4167980911260869,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_1176,0,0,0.035321485885723196,Contract_One year,InternetService_Fiber optic,MonthlyCharges
+CUST_1177,0,0,0.12437156624378896,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1178,0,0,0.022415980484247144,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1179,0,0,0.4126463531377676,InternetService_Fiber optic,OnlineSecurity_Yes,StreamingMovies_Yes
+CUST_1180,0,0,0.381481173176202,InternetService_Fiber optic,tenure,StreamingMovies_Yes
+CUST_1181,1,1,0.5774895821167526,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_1182,0,0,0.06238768875613615,tenure,Contract_One year,InternetService_Fiber optic
+CUST_1183,0,0,0.03213987449060405,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1184,0,0,0.00407075596052967,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1185,0,0,0.0075099576800417055,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1186,0,0,0.47009985781356334,InternetService_Fiber optic,tenure,StreamingMovies_Yes
+CUST_1187,0,0,0.27109270039762084,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_1188,1,0,0.1476509539566003,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1189,0,0,0.016410626607068313,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1190,0,0,0.2515943971571617,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_1191,0,0,0.22810628584021972,InternetService_Fiber optic,tenure,StreamingMovies_Yes
+CUST_1192,0,0,0.4427678297800441,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1193,0,0,0.12229411693722776,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1194,1,1,0.6667949503644904,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1195,0,0,0.07203210231808768,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1196,0,0,0.1209010406368986,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1197,0,0,0.2759325469624122,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1198,0,0,0.2667522105922594,InternetService_Fiber optic,tenure,PaperlessBilling_Yes
+CUST_1199,0,0,0.03267288894960916,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1200,1,1,0.729150840289222,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1201,0,0,0.08313321903761431,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1202,0,0,0.1868586641423758,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1203,0,0,0.4137255269678435,InternetService_Fiber optic,StreamingMovies_Yes,Contract_Two year
+CUST_1204,1,0,0.32230474968817985,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1205,0,0,0.02464931798303181,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1206,0,0,0.006959910381790613,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1207,0,0,0.1550860036510701,Contract_One year,InternetService_Fiber optic,MultipleLines_Yes
+CUST_1208,1,0,0.48243489850062243,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1209,1,0,0.39669493040419174,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1210,0,0,0.0408001450695637,InternetService_Fiber optic,Contract_One year,tenure
+CUST_1211,0,0,0.02037115722221904,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1212,0,0,0.005259337870847663,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1213,0,0,0.026856045663951538,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1214,1,0,0.18964676227188862,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1215,0,0,0.47313315521109695,InternetService_Fiber optic,Contract_Two year,PaperlessBilling_Yes
+CUST_1216,0,1,0.611871673124286,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1217,1,0,0.379212664491666,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1218,0,0,0.10483799214613777,InternetService_Fiber optic,OnlineSecurity_Yes,PaperlessBilling_Yes
+CUST_1219,0,0,0.013858380009278396,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1220,0,0,0.03901239970730621,Contract_Two year,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_1221,1,0,0.4899451472056092,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1222,0,0,0.13541800208808502,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1223,0,0,0.20465205213846893,InternetService_Fiber optic,TechSupport_Yes,PaperlessBilling_Yes
+CUST_1224,0,0,0.05717619788657929,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_1225,0,0,0.08281270678231847,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1226,1,1,0.5932861284358094,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1227,0,0,0.00505655854585239,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1228,1,0,0.44722682017221066,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1229,0,0,0.017301115463220634,Contract_Two year,InternetService_Fiber optic,tenure
+CUST_1230,0,0,0.18672425375253102,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_1231,0,0,0.026469851329299757,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_1232,0,0,0.013190036237525732,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1233,0,1,0.5025972000480909,tenure,TotalCharges_44.9,InternetService_Fiber optic
+CUST_1234,0,0,0.02408581279900563,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1235,0,0,0.4198442080315585,InternetService_Fiber optic,OnlineSecurity_Yes,Contract_Two year
+CUST_1236,0,0,0.04963911724486764,tenure,Contract_One year,InternetService_Fiber optic
+CUST_1237,0,0,0.35082397835391854,InternetService_Fiber optic,tenure,PaperlessBilling_Yes
+CUST_1238,1,0,0.03290646675158758,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1239,0,0,0.12577599894672278,InternetService_Fiber optic,Contract_One year,TechSupport_Yes
+CUST_1240,1,0,0.3588826984887381,InternetService_Fiber optic,OnlineSecurity_Yes,StreamingMovies_Yes
+CUST_1241,0,0,0.1593081301612387,InternetService_Fiber optic,Contract_One year,StreamingMovies_Yes
+CUST_1242,1,0,0.2911502413301596,InternetService_Fiber optic,OnlineSecurity_Yes,Contract_Two year
+CUST_1243,0,0,0.06920152674156513,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1244,1,1,0.7239095393731838,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1245,0,0,0.011515685620214905,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1246,1,1,0.6811629764156129,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_1247,1,1,0.788848088790742,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1248,0,0,0.09658420647381204,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1249,1,1,0.5065582706350411,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1250,0,0,0.008627844026054777,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1251,0,0,0.2149871283565449,tenure,TotalCharges_44.75,InternetService_Fiber optic
+CUST_1252,0,0,0.018133527528213796,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1253,0,0,0.005085830343218333,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1254,0,0,0.04317023178667004,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1255,1,0,0.3315070505858918,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1256,0,0,0.030964118699962788,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1257,0,0,0.19966859665627743,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1258,0,0,0.3066962187364192,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1259,0,0,0.039361469128992244,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1260,1,1,0.6096806573957696,InternetService_Fiber optic,Contract_Two year,MultipleLines_Yes
+CUST_1261,0,0,0.007432177428183995,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1262,0,0,0.014868475468999493,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1263,0,0,0.017924325953244183,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_1264,1,0,0.04175831719898865,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1265,0,0,0.2790167757729083,tenure,TotalCharges_24.4,InternetService_Fiber optic
+CUST_1266,0,0,0.004225039935776009,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1267,0,0,0.1072905328704508,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1268,1,0,0.23045082830933775,InternetService_Fiber optic,Contract_One year,tenure
+CUST_1269,0,1,0.6762008809006391,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1270,1,1,0.5894747614692344,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1271,0,0,0.00842906453292863,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1272,0,0,0.18697589854582797,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1273,0,0,0.007832341693997288,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1274,0,0,0.07615295602809859,tenure,Contract_One year,InternetService_Fiber optic
+CUST_1275,0,0,0.15321415011976441,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1276,0,0,0.11902204066305148,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1277,1,1,0.7752273674492398,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1278,0,0,0.21121232015640112,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_1279,0,0,0.14811896146596418,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1280,0,0,0.016422884353614744,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1281,0,0,0.2123197013913378,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_1282,0,0,0.34737188033516747,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_1283,0,1,0.6860437361919567,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1284,1,0,0.12313262036718006,tenure,Contract_One year,InternetService_Fiber optic
+CUST_1285,0,0,0.1726335987862619,InternetService_Fiber optic,OnlineSecurity_Yes,MultipleLines_Yes
+CUST_1286,0,0,0.019648408858173302,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1287,0,0,0.005383867020737712,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1288,1,1,0.6367607271612976,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1289,0,0,0.23443299502606751,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1290,1,0,0.24134404855824973,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_1291,0,0,0.09654090488155662,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1292,1,0,0.3313484613890647,InternetService_Fiber optic,Contract_Two year,TechSupport_Yes
+CUST_1293,1,1,0.832249970858934,tenure,InternetService_Fiber optic,TotalCharges_229.55
+CUST_1294,1,0,0.3764799347808813,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1295,1,0,0.2462960137307123,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1296,1,0,0.251660235814738,tenure,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_1297,1,0,0.3641690016610794,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1298,1,1,0.8563608435592631,tenure,InternetService_Fiber optic,TotalCharges_193.6
+CUST_1299,1,0,0.16260296158985116,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1300,0,0,0.037775763730028444,Contract_One year,InternetService_Fiber optic,Contract_Two year
+CUST_1301,0,0,0.43942957835664187,InternetService_Fiber optic,Contract_One year,StreamingMovies_Yes
+CUST_1302,1,0,0.2936958216277367,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1303,0,0,0.24030401948507255,tenure,InternetService_Fiber optic,PaperlessBilling_Yes
+CUST_1304,0,0,0.10217042230818434,Contract_One year,InternetService_Fiber optic,tenure
+CUST_1305,0,0,0.15497447171234136,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1306,0,0,0.10135493645867164,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1307,1,1,0.8245478761333006,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1308,0,0,0.00656378349968858,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1309,1,0,0.2242591248860687,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1310,0,0,0.01185713916232434,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1311,0,0,0.14793161157019205,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1312,1,0,0.04782549617871961,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1313,0,0,0.022947741550951854,tenure,Contract_One year,InternetService_Fiber optic
+CUST_1314,0,0,0.31646003600704414,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_1315,1,1,0.5211941467606643,tenure,TotalCharges_45.05,InternetService_Fiber optic
+CUST_1316,0,0,0.38737157630014457,tenure,Contract_One year,InternetService_Fiber optic
+CUST_1317,0,0,0.2605640307164645,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1318,1,0,0.13541963794871303,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_1319,0,0,0.05208950965332624,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1320,0,0,0.028075139538848708,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1321,0,0,0.00591524323293481,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1322,0,0,0.2111397721181152,tenure,InternetService_Fiber optic,TotalCharges_49.8
+CUST_1323,1,1,0.72626834867549,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1324,0,0,0.06046980978998139,tenure,Contract_One year,InternetService_Fiber optic
+CUST_1325,0,1,0.5638322585967853,InternetService_Fiber optic,Contract_Two year,StreamingMovies_Yes
+CUST_1326,0,0,0.1118600074200378,InternetService_Fiber optic,MonthlyCharges,PaperlessBilling_Yes
+CUST_1327,0,0,0.07103196999559531,Contract_One year,InternetService_Fiber optic,tenure
+CUST_1328,0,0,0.1341635332491017,InternetService_Fiber optic,OnlineSecurity_Yes,PaperlessBilling_Yes
+CUST_1329,0,0,0.007928007667345971,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1330,0,1,0.6170136145417295,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1331,0,0,0.05800703489908087,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1332,0,0,0.0227757291575297,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1333,0,0,0.12821937446388634,InternetService_Fiber optic,OnlineSecurity_Yes,tenure
+CUST_1334,0,0,0.01151174679527871,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1335,0,0,0.03657427800242856,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1336,0,0,0.11496348370559373,Contract_One year,InternetService_Fiber optic,OnlineSecurity_Yes
+CUST_1337,1,1,0.8335237722286972,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1338,0,0,0.011758401612443289,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1339,0,0,0.02756738668883738,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_1340,0,0,0.22563137356941124,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1341,1,0,0.30754732381830086,InternetService_Fiber optic,MonthlyCharges,OnlineSecurity_Yes
+CUST_1342,1,1,0.6932435113903295,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1343,0,0,0.3976215026177454,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_1344,0,0,0.058358683832277956,InternetService_Fiber optic,tenure,MonthlyCharges
+CUST_1345,0,1,0.6181463680660568,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1346,0,0,0.0913917061860227,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1347,1,1,0.5640823769232649,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1348,0,0,0.2431651000808874,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1349,0,0,0.29809005070470707,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_1350,0,0,0.217369241909349,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1351,1,0,0.49834933980083446,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1352,0,0,0.03472686612666128,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_1353,0,0,0.19627895059613618,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1354,0,0,0.012218786432804109,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1355,1,0,0.4934353603014927,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1356,0,0,0.014987458076373814,tenure,Contract_One year,InternetService_Fiber optic
+CUST_1357,0,0,0.28888194380671844,InternetService_Fiber optic,tenure,OnlineSecurity_Yes
+CUST_1358,0,0,0.45571352021762546,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_1359,0,0,0.07277655801212367,Contract_One year,InternetService_Fiber optic,MonthlyCharges
+CUST_1360,0,0,0.017822480856660508,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_1361,0,0,0.147309758258499,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1362,0,0,0.04322302297255056,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1363,0,0,0.15139742435756776,tenure,InternetService_Fiber optic,TotalCharges_19.2
+CUST_1364,0,0,0.030748706125551542,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1365,0,1,0.5875039121606725,TotalCharges_45.3,tenure,InternetService_Fiber optic
+CUST_1366,0,0,0.0177801233875126,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1367,0,1,0.5236083839823825,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1368,0,0,0.4141235484018927,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_1369,1,0,0.16036151532892132,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1370,1,0,0.15406220388936206,tenure,InternetService_Fiber optic,MonthlyCharges
+CUST_1371,0,0,0.023213821922802143,tenure,Contract_One year,InternetService_Fiber optic
+CUST_1372,0,1,0.59177768574292,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1373,1,0,0.4930266700219977,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1374,0,0,0.24792960474421052,InternetService_Fiber optic,Contract_Two year,MultipleLines_Yes
+CUST_1375,0,0,0.12444250360195439,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_1376,0,0,0.10077257389411878,InternetService_Fiber optic,MonthlyCharges,PaymentMethod_Electronic check
+CUST_1377,1,1,0.6520935336927558,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1378,0,0,0.0250204218447187,Contract_Two year,InternetService_Fiber optic,MonthlyCharges
+CUST_1379,0,0,0.4409749405904503,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_1380,1,0,0.09058004627010309,tenure,TotalCharges_19.55,InternetService_Fiber optic
+CUST_1381,0,0,0.03175629017132899,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1382,0,0,0.3039315736745473,Contract_One year,InternetService_Fiber optic,tenure
+CUST_1383,0,1,0.520285438832807,InternetService_Fiber optic,tenure,Contract_Two year
+CUST_1384,0,0,0.011867781161731988,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1385,0,1,0.6749335921845799,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1386,1,1,0.7678434810056498,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1387,1,1,0.7453859371025012,tenure,InternetService_Fiber optic,TotalCharges_69.65
+CUST_1388,0,0,0.025182279876288786,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1389,0,0,0.1378423184572384,Contract_One year,InternetService_Fiber optic,tenure
+CUST_1390,0,0,0.0074793179779439455,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1391,0,0,0.22240198553547902,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1392,0,1,0.7123412625857217,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1393,0,0,0.22967433148827296,tenure,InternetService_Fiber optic,StreamingMovies_Yes
+CUST_1394,0,1,0.7883861623879028,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1395,0,0,0.019553968851297596,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1396,0,0,0.011277044795913176,Contract_Two year,tenure,InternetService_Fiber optic
+CUST_1397,0,0,0.10928179247206865,InternetService_Fiber optic,OnlineSecurity_Yes,tenure
+CUST_1398,1,1,0.510164051525839,tenure,InternetService_Fiber optic,TotalCharges_25.2
+CUST_1399,1,1,0.7421334367019182,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1400,0,0,0.010463805214238148,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1401,1,1,0.7716636505913169,tenure,InternetService_Fiber optic,Contract_Two year
+CUST_1402,0,0,0.035263121504336394,InternetService_Fiber optic,Contract_One year,tenure
+CUST_1403,0,0,0.0249328552295785,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1404,0,0,0.019265441580825198,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1405,0,0,0.08320105016863032,tenure,InternetService_Fiber optic,Contract_One year
+CUST_1406,0,0,0.047141229868735895,InternetService_Fiber optic,Contract_One year,MonthlyCharges
+CUST_1407,0,0,0.022476180990459747,tenure,Contract_Two year,InternetService_Fiber optic
+CUST_1408,1,0,0.42756792853155967,tenure,InternetService_Fiber optic,Contract_Two year
