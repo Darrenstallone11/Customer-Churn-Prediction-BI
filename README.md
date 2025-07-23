@@ -37,8 +37,10 @@ Snapshots:
 
 SHAP Summary Plot - 
 ![SHAP Summary Plot](Images/Shap.png)
+
 Power BI Donut Chart & Main Dashboard - 
 ![Power BI Dashboard](Images/Customer%20Churn%20Dashboard.png)
+
 Sample confusion matrix heatmap - 
 ![Confusion Matrix](Images/Confusion%20Matrix.png)
 
