@@ -56,5 +56,7 @@ Future Enhancements:
 
 Author
 Darren Stallone Mendez
+
 Aspiring Data Analyst | AI-ML Enthusiast
+
 [LinkedIn](https://www.linkedin.com/in/darrenstallonemendez)  
