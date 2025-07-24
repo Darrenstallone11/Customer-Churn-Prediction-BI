@@ -1,4 +1,4 @@
-Customer Churn Prediction & Business Intelligence
+ML Powered Customer Churn Prediction & Business Intelligence Dashboard for a SaaS Company
 
 This project is a complete end-to-end solution for predicting customer churn using machine learning and translating the results into actionable business insights using Power BI.
 
